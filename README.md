@@ -12,12 +12,11 @@ This project is a simple Student Information System built using Flutter. It allo
 
 ## Screenshots
 
-<img src="assets/images/ss1.jpg" width="500" alt="">
-<img src="assets/images/ss2.jpg" width="500" alt="">
-<img src="assets/images/ss3.jpg" width="500" alt="">
-<img src="assets/images/ss4.jpg" width="500" alt="">
-<img src="assets/images/ss5.jpg" width="500" alt="">
-<img src="assets/images/ss6.jpg" width="500" alt="">
-<img src="assets/images/ss7.jpg" width="500" alt="">
-<img src="assets/images/ss8.jpg" width="500" alt="">
+<img src="assets/images/ss1.jpg" height="700" width="300" alt="">
+<img src="assets/images/ss3.jpg" height="700" width="500" alt="">
+<img src="assets/images/ss4.jpg" height="700" width="500" alt="">
+<img src="assets/images/ss5.jpg" height="700" width="500" alt="">
+<img src="assets/images/ss6.jpg" height="700" width="500" alt="">
+<img src="assets/images/ss7.jpg" height="700" width="500" alt="">
+<img src="assets/images/ss8.jpg" height="700" width="500" alt="">
 
